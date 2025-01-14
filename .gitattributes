@@ -1,0 +1,2 @@
+* linguist-vendored
+*.sqlite linguist-vendored=false
