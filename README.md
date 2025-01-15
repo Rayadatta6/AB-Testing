@@ -2,7 +2,7 @@
 
 A/B testing (also known as split testing or bucket testing) is a method of comparing two versions of a webpage or app against each other to determine which one performs better. AB testing is essentially an experiment where two or more variants of a page are shown to users at random, and statistical analysis is used to determine which variation performs better for a given conversion goal. 
 
-Using SQL, we analyze the AB Test results available on the [Mode Public Warehouse (login required)](https://app.mode.com/home/pranav_tumkur/data_sources/0a671f65888c) to determine which test has the best effectiveness based on customer response received after completion of the testing.
+Using SQL, we analyze the AB Test results available on the TAKKT Group website to determine which test has the best effectiveness based on customer response received after completion of the testing.
 
 ![images](https://user-images.githubusercontent.com/65482013/84435684-dc802180-ac4f-11ea-8957-936a6dc0c5f6.png)
 
